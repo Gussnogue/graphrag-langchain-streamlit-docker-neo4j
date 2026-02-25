@@ -1,0 +1,9 @@
+streamlit==1.36.0
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-openai==0.3.7
+langchain-experimental==0.3.4
+neo4j==5.28.1
+pypdf==5.3.1
+python-dotenv==1.0.0
+py2neo==2021.2.4
